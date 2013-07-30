@@ -1,0 +1,15 @@
+
+
+
+TermLab Assignment : PowerUps
+
+Shield: Unlike most games where the shield surrounds the player and protect them from
+	all elements in the game. This shield will only protect you from the flying enemies	
+	The player will still have to jump over obstacle to avoid being killed.
+
+Double Bullet: Witht this powerup im thinking two ways;first the dragon shoots out 2 bullets
+		at a time inflicting double the damage or he shoots one bullet but twice as fast
+		either way double the damage is inflicted.
+
+Transform: THis powerup basically replaces the dragon on screen with one 3x and big and shoots
+	   a constant flame across the screen for 15 seconds.   	 

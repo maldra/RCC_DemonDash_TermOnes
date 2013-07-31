@@ -32,6 +32,8 @@
 			stage.addChild(player);
 			stage.addChild(db);
 			stage.addChild(dbb);
+			
+			Key.initialize(stage);
 		}
 
 	}
